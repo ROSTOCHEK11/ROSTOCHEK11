@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hello Hello 👋
+My name is Rostyslav, right as a profile name. I am a passionate student, who's recently started his journey as ASP.NET developer and interested in learning new and fascinating things.
+
+---
+
+- 🌱 I’m currently learning various materials related to C# and .NET
+- 🔭 I’m looking for traineeship to upgrade my skills and knowledge
+- 📫 How to reach me :
+  * Telegram : @rostochek11
+  * Instagram : <a href="https://www.instagram.com/rostochek11">rostochek11</a>
+  * LinkedIn : <a href="https://www.linkedin.com/in/rostyslav-zholudiev-1813272b1">Rostyslav Zholudiev</a>
+    
+<br>
+
+## ✨ `Technologies :`
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql,sqlite,visualstudio,git)](https://skillicons.dev)
 
 <!--
-**ROSTOCHEK11/ROSTOCHEK11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ postman
+ vscode
+ 
+ wasm
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ mongodb
+ 
+ docker
 -->
