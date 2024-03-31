@@ -14,10 +14,9 @@ My name is Rostyslav, right as a profile name. I am a passionate student, who's 
 
 ## ✨ `Technologies :`
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql,sqlite,visualstudio,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql,sqlite,visualstudio,postman,git)](https://skillicons.dev)
 
 <!--
- postman
  vscode
  
  wasm
