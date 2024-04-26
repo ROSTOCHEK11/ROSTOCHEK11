@@ -19,6 +19,12 @@ My name is Rostyslav, right as a profile name. I am a passionate student, who's 
 <!--
  vscode
 
+ azure
+
+ aws
+
+ gcp
+
  mongodb
  
  docker
