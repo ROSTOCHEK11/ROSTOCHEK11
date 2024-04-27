@@ -14,7 +14,7 @@ My name is Rostyslav, right as a profile name. I am a passionate student, who's 
 
 ## ✨ `Technologies :`
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql,sqlite,visualstudio,postman,git,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql,sqlite,mongodb,visualstudio,postman,git,wasm)](https://skillicons.dev)
 
 <!--
  vscode
@@ -23,9 +23,7 @@ My name is Rostyslav, right as a profile name. I am a passionate student, who's 
 
  aws
 
- gcp
-
- mongodb
+ gcp 
  
  docker
 -->
